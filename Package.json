@@ -1,0 +1,12 @@
+{
+  "name": "cyber-synth-backend",
+  "version": "4.2.0",
+  "description": "Cyber Synth Deck Backend Node.js Layer",
+  "main": "cyber-synth-backend.js",
+  "scripts": {
+    "start": "node cyber-synth-backend.js"
+  },
+  "dependencies": {
+    "ws": "^8.16.0"
+  }
+}
