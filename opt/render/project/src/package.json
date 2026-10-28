@@ -1,0 +1,11 @@
+{
+  "name": "cyber-synth-backend",
+  "version": "4.2.0",
+  "main": "cyber-synth-backend.js",
+  "scripts": {
+    "start": "node cyber-synth-backend.js"
+  },
+  "dependencies": {
+    "ws": "^8.16.0"
+  }
+}
